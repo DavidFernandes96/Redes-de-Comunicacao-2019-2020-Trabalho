@@ -1,14 +1,14 @@
-# Redes-de-Comunicacao-2019-2020-Trabalho
+# Redes de Comunicacão (2019/20) - Trabalho
 Chat simples / Simple chat
 
-Para executar / To execute:
-1) $javac *.java
-2) $java ChatServer <Escolher porto/Choose port>
+## Como usar / How to use:
+1) `$javac *.java`
+2) `$java ChatServer <Escolher porto/Choose port>`
 3) Abra outro terminal / Open another terminal.
-4) $java ChatClient localhost <porto escolhido em 2)/port chosen in 2)>
+4) `$java ChatClient localhost <porto escolhido em 2)/port chosen in 2)>`
 5) Para clientes adicionais repetir os passos a partir de 3) / For additional clients repeat all steps after 3.
 
-Comandos / Commands
+## Comandos / Commands
 
 /nick <nome/name>
 Usado para escolher um nome ou para mudar de nome. O nome escolhido não pode estar já a ser usado por outro utilizador.
